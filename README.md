@@ -1,5 +1,5 @@
 # About
-This was Team 14's submission to the annual CFM 101 Team Competition at the University of Waterloo, where it achieved 2nd place.
+This was Team 14 ([Max Hua](https://github.com/BleakBubbles), [Allan Li](https://github.com/allanli608), [Zayaan Siddiqui](https://github.com/Zayaan-Siddiqui))'s submission to the annual CFM 101 Team Competition at the University of Waterloo, where it achieved 2nd place.
 # How it works
 When given an arbitrary list of stocks, our program performs statistical analyses and picks certain stocks out of the list to form the safest portfolio possible.
 # Usage
